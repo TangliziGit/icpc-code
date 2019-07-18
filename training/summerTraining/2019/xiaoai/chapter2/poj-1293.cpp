@@ -25,7 +25,6 @@ void show(int x){
     sort(sta, sta+siz);
     for (int i=0; i<siz; i++)
         printf("%d%c", sta[i]+1, (i==siz-1)[" \n"]);
-    printf("%d", 1[choco]);
 }
 
 int main(void){
