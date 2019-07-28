@@ -1,4 +1,5 @@
-// wrong answer
+// wrong answer 
+// 问题在于是否允许dp[i]=update(0, i)
 #include <cstdio>
 #include <algorithm>
 using namespace std;
